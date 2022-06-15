@@ -1,0 +1,22 @@
+{
+  "name": "js-usefull-functions",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okyaneka/js-usefull-functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okyaneka/js-usefull-functions/issues"
+  },
+  "homepage": "https://github.com/okyaneka/js-usefull-functions#readme",
+  "dependencies": {
+    "mocha": "^10.0.0"
+  }
+}
